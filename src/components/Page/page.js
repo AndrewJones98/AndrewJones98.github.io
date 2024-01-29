@@ -14,9 +14,9 @@ function Page() {
     <div className='page-container'>
       <Header />
       <Routes>
-        <Route path='/' element={<About/>} />
-        <Route path='/contact' element={<Contact/>} />
-        <Route path='/projects' element={<Project/>} />
+        <Route exact path='/' element={<About/>} />
+        <Route exact path='/contact' element={<Contact/>} />
+        <Route exact path='/projects' element={<Project/>} />
     </Routes>
       
     </div>
