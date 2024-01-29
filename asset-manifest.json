@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AndrewJones98.github.io/static/css/main.a13194ce.css",
-    "main.js": "/AndrewJones98.github.io/static/js/main.839fb8d4.js",
-    "static/js/787.3f5df1b8.chunk.js": "/AndrewJones98.github.io/static/js/787.3f5df1b8.chunk.js",
-    "static/media/WorkSans-Light.ttf": "/AndrewJones98.github.io/static/media/WorkSans-Light.27e24a2b89dd027c0580.ttf",
-    "static/media/WorkSans-Regular.ttf": "/AndrewJones98.github.io/static/media/WorkSans-Regular.0014f9c01dd97e20fa0c.ttf",
-    "index.html": "/AndrewJones98.github.io/index.html",
-    "main.a13194ce.css.map": "/AndrewJones98.github.io/static/css/main.a13194ce.css.map",
-    "main.839fb8d4.js.map": "/AndrewJones98.github.io/static/js/main.839fb8d4.js.map",
-    "787.3f5df1b8.chunk.js.map": "/AndrewJones98.github.io/static/js/787.3f5df1b8.chunk.js.map"
+    "main.css": "/static/css/main.3065bac3.css",
+    "main.js": "/static/js/main.35bb8b6b.js",
+    "static/js/787.3f5df1b8.chunk.js": "/static/js/787.3f5df1b8.chunk.js",
+    "static/media/WorkSans-Light.ttf": "/static/media/WorkSans-Light.27e24a2b89dd027c0580.ttf",
+    "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.0014f9c01dd97e20fa0c.ttf",
+    "index.html": "/index.html",
+    "main.3065bac3.css.map": "/static/css/main.3065bac3.css.map",
+    "main.35bb8b6b.js.map": "/static/js/main.35bb8b6b.js.map",
+    "787.3f5df1b8.chunk.js.map": "/static/js/787.3f5df1b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a13194ce.css",
-    "static/js/main.839fb8d4.js"
+    "static/css/main.3065bac3.css",
+    "static/js/main.35bb8b6b.js"
   ]
 }
