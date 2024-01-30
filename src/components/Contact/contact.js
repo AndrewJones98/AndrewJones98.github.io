@@ -10,7 +10,7 @@ function Contact() {
         BasilJonesAndrew@outlook.com <br/> <br/>
         <div className='linkedin-logo'>
         <a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/andrew-jones-75b8b01b1/">
-                    <FontAwesomeIcon icon={faLinkedin} color='white'/>
+                    <FontAwesomeIcon icon={faLinkedin} color='#0077b5'/>
         </a>
         </div>
         </div>
