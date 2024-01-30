@@ -12,11 +12,12 @@ function Project() {
                     <FontAwesomeIcon icon={faGithub} color='white'/>
         </a>
         </div>
+        <br/> <br/>
         Including: <br/> <br/>
-        Data Analysis of Netflix releases using Pandas <br/> <br/>
-        Multithreaded server and clients for a simple game <br/> <br/>
-        Reactjs Websites, including this one <br/> <br/>
-        Electronic elections using a blockchain <br/> <br/>
+        Data Analysis of Netflix releases using Pandas. <br/> <br/>
+        Multithreaded server and clients for a simple game. <br/> <br/>
+        Reactjs Websites, including this one. <br/> <br/>
+        Electronic elections using a blockchain. <br/> <br/>
 
         </div>
 
